@@ -1,0 +1,3 @@
+[submodule "submodules/config"]
+	path = submodules/config
+	url = https://gist.github.com/dd302165da1d1751dbad.git
